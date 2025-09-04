@@ -3,7 +3,7 @@
 A simple and responsive **ToDo List App** built using **HTML, CSS, and JavaScript**.  
 This app helps you stay organized by keeping track of your tasks.
 
----
+----
 
 ## 🚀 Features
 - ➕ Add new tasks
