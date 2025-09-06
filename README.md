@@ -12,7 +12,7 @@ This app helps you stay organized by keeping track of your tasks.
 - 💾 Saves tasks locally in your browser (no backend required)
 - 📱 Fully responsive design
 
----
+----
 
 ## 📂 Project Structure
 Todo-app/
